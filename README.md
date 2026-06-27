@@ -1,2 +1,45 @@
-# b5cdf7e0-catering-food-service-bookma
-Are you tired of endless tabs and disorganized bookmarks slowing down your catering business? The Catering &amp; Food Service Bookmark Manager and Knowledge Base Chrome Extension is here to streamline your workflow.  This innovative extension helps you efficiently manage bookmarks, contacts, and recipes, while also providing a knowledge base for cateri
+# Catering & Food Service Bookmark Manager and Knowledge Base Chrome Extension
+
+> Extension for Catering
+
+Are you tired of endless tabs and disorganized bookmarks slowing down your catering business? The Catering & Food Service Bookmark Manager and Knowledge Base Chrome Extension is here to streamline your workflow.
+
+This innovative extension helps you efficiently manage bookmarks, contacts, and recipes, while also providing a knowledge base for...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core features | ✅ | ✅ |
+| Community support | ✅ | ✅ |
+| Basic configuration | ✅ | ✅ |
+| Advanced automation | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom configurations | ❌ | ✅ |
+| Auto-updates | ❌ | ✅ |
+| Premium integrations | ❌ | ✅ |
+| Unlimited usage | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy on Gumroad](https://journalscribe7.gumroad.com/l/zekhx)** — Instant download, lifetime updates
+
+**[Buy Now (Stripe)](https://buy.stripe.com/aFa5kDcLl3o89JK5bucZu3g)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://journalscribe7.gumroad.com/l/zekhx)
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
